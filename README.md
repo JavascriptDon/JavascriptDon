@@ -15,15 +15,15 @@
 
 <!-- GitHub links--> 
 ## GitHub Stats ✈️
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr22don&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavascriptDon&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hr22don&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JavascriptDon&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- Language stat-->
-<a href="https://github.com/hr22don/github-readme-stats"><img alt="HR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr22don&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/JavascriptDon/github-readme-stats"><img alt="HR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavascriptDon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <!-- Contribution stat-->
-<a href="https://github.com/hr22don/github-readme-activity-graph"><img alt="HR's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hr21don&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/JavascriptDon/github-readme-activity-graph"><img alt="HR's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JavascriptDon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 ## Languages and Tools 📈
