@@ -1,7 +1,7 @@
+<h5 align="center"> <a href="https://app.daily.dev/praise_the_lord"><img src="https://api.daily.dev/devcards/aa34559bd45740c5afc1ab8be4785e1f.png?r=ozc" width="400" alt="Helitha Rupasinghe's Dev Card"/></a> </h5>
+
 <h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Im Helitha Rupasinghe ❤️ </h1>
 <h3 align="center">A front-end Web Developer from the UK</h3>
-
-<h5 align="center"> <a href="https://app.daily.dev/praise_the_lord"><img src="https://api.daily.dev/devcards/aa34559bd45740c5afc1ab8be4785e1f.png?r=ozc" width="400" alt="Helitha Rupasinghe's Dev Card"/></a> </h5>
 
 ## 🙋‍♂️ About Me 
 
