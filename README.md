@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning the MERN stack which is the tool to use for faster end-to-end development. 
 - 👯 I’m looking to collaborate on React.Js projects. 
-- 🤔 I’m looking to contribute to as many React.JS projects as possible. 
+- 🤔 I’m looking to make contributions along the way. 
 - 💬 Ask me about ... Anything! 
 - 📫 How to reach me: [Get In Touch](H_R@helitharupasinghe.com)
 - 😄 Pronouns: He/ Him
