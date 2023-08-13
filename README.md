@@ -5,13 +5,13 @@
 ## 🙋‍♂️ About Me 
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning the MERN stack which is the tool to use for faster end-to-end development. 
-- 👯 I’m looking to collaborate on React.Js projects. 
+- 🌱 I’m currently learning the React Router 6 which is the tool to use for navigation and routing in React Apps.
+- 👯 I’m looking to collaborate on ReactJS projects to further improve my skills in React and React Router. 
 - 🤔 I’m looking to make contributions along the way. 
 - 💬 Ask me about ... Anything! 
 - 📫 How to reach me: [Get In Touch](H_R@helitharupasinghe.com)
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I love Pizza 🍕 and chicken🍗.
+- ⚡ Fun fact: When I'm not coding, you can find me eating pizza 🍕 and chicken 🍗, two of my favorite foods.
 
 
 <!-- GitHub links--> 
