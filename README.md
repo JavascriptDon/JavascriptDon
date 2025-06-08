@@ -5,11 +5,11 @@
 ## 🙋‍♂️ About Me 
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning the React Router 6 which is the tool to use for navigation and routing in React Apps.
-- 👯 I’m looking to collaborate on ReactJS projects to further improve my skills in React and React Router. 
+- 🌱 I’m currently learning the Rapid Author which is the tool to use to create Technical Documentation such as Parts Catalogs: maintenance manuals , training materials and work instructions. 
+- 👯 I’m looking to collaborate on Rapid Author projects to further improve my skills in XML and XSLT. 
 - 🤔 I’m looking to make contributions along the way. 
 - 💬 Ask me about ... Anything! 
-- 📫 How to reach me: [Get In Touch](H_R@helitharupasinghe.com)
+- 📫 How to reach me: [Get In Touch](providedByGatsby@outlook.com)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: When I'm not coding, you can find me eating pizza 🍕 and chicken 🍗, two of my favorite foods.
 
