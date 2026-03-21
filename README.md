@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me 
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning the Rapid Author which is the tool to use to create Technical Documentation such as Parts Catalogs: maintenance manuals , training materials and work instructions. 
+- 🌱 I’m currently learning the Rapid Author which is the toolset to use to create Technical Documentation such as Parts Catalogs: maintenance manuals , training materials and work instructions. 
 - 👯 I’m looking to improve my skills in Javascript, XML and XSLT. 
 - 🤔 I’m looking to make contributions along the way. 
 - 💬 Ask me about ... Anything! 
