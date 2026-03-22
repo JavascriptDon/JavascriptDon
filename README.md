@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Im Helitha Rupasinghe ❤️ </h1>
-<h3 align="center">A software Developer from the UK</h3>
+<h3 align="center"> I am a self-motivated PLM and technical consulting professional with hands-on expertise in Siemens Teamcenter and Cortona3D Rapid Author solutions. </h3>
 
 
 ## 🙋‍♂️ About Me 
